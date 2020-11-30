@@ -1,0 +1,15 @@
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\appsettings.Development.json
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\appsettings.json
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\bundleconfig.json
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\RS1_2019_12_16.deps.json
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\RS1_2019_12_16.runtimeconfig.json
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\RS1_2019_12_16.runtimeconfig.dev.json
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\RS1_2019_12_16.dll
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\bin\Debug\netcoreapp2.0\RS1_2019_12_16.pdb
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\obj\Debug\netcoreapp2.0\RS1_2019_12_16.csprojAssemblyReference.cache
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\obj\Debug\netcoreapp2.0\RS1_2019_12_16.AssemblyInfoInputs.cache
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\obj\Debug\netcoreapp2.0\RS1_2019_12_16.AssemblyInfo.cs
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\obj\Debug\netcoreapp2.0\RS1_2019_12_16.csproj.CoreCompileInputs.cache
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\obj\Debug\netcoreapp2.0\RS1_2019_12_16.dll
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\obj\Debug\netcoreapp2.0\RS1_2019_12_16.pdb
+E:\Razvoj softvera 1\Razvoj-Softvera-1-master\Ispiti\2019-12-16\Postavka\RS1_2019_12_16\obj\Debug\netcoreapp2.0\RS1_2019_12_16.genruntimeconfig.cache

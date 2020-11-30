@@ -1,0 +1,46 @@
+﻿@model RS1_2019_12_16.ViewModels.PopravniIspitDodajVM
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h2>Dodavanje popravnog ispita</h2>
+<hr />
+@using (Html.BeginForm("Save", "PopravniIspit"))
+{
+    @Html.HiddenFor(x => x.SkolskaGodId)
+    @Html.HiddenFor(x => x.SkolaId)
+    @Html.HiddenFor(x => x.PredmetId)
+
+
+    <div class="form-group">
+        @Html.Label("1. Clan komisije:")
+        @Html.DropDownListFor(x => x.ClanKomisije1Id, Model.filterNastavnici, null, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("2. Clan komisije:")
+        @Html.DropDownListFor(x => x.ClanKomisije2Id, Model.filterNastavnici, null, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("3. Clan komisije:")
+        @Html.DropDownListFor(x => x.ClanKomisije3Id, Model.filterNastavnici, null, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Datum ispita:")
+        @Html.TextBoxFor(x => x.Datum,null, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Skola:")
+        @Html.TextBoxFor(x => x.SkolaNaziv, null, new { @class = "form-control", @readonly = "readonly" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Skolska godina:")
+        @Html.TextBoxFor(x => x.SkolskaGodNaziv, null, new { @class = "form-control", @readonly = "readonly" })
+    </div>
+    <div class="form-group">
+        @Html.Label("Predmet:")
+        @Html.TextBoxFor(x => x.PredmetNaziv, null, new { @class = "form-control", @readonly = "readonly" })
+    </div>
+    <input type="submit" value="Snimi" class="btn btn-primary" />
+
+
+}

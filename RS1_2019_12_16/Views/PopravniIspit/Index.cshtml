@@ -1,0 +1,28 @@
+﻿@model RS1_2019_12_16.ViewModels.PopravniIspitIndexVM 
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Korisnik moze odabrati Skolsku godinu, skolu i predmet</h3>
+<hr />
+@using(Html.BeginForm("Display","PopravniIspit"))
+{ 
+<div class="row">
+    <div class="col-5">
+        @Html.Label("Skolska godina: ")
+        @Html.DropDownListFor(x => x.SkolskaGodId, Model.filterSkolskeGod, null, new { @class = "form-control" })
+    </div>
+    <div class="col-5">
+        @Html.Label("Skola: ")
+        @Html.DropDownListFor(x => x.SkolaId, Model.filterSkole, null, new { @class = "form-control" })
+    </div>
+    <div class="col-5">
+        @Html.Label("Predmet: ")
+        @Html.DropDownListFor(x => x.PredmetId, Model.filterPredmeti, null, new { @class = "form-control" })
+    </div>
+    <br />
+    <div class="col-5">
+    <input type="submit" value="Odaberi" class="btn btn-default" />
+    </div>
+</div>
+}
